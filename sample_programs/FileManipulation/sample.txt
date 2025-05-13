@@ -1,0 +1,7 @@
+Hi 
+Welcome 
+to 
+the 
+python 
+world
+New Log Event OccuredNew Log Event Occured
